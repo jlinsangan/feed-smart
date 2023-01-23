@@ -1,0 +1,12 @@
+
+de
+https://de.smart.com/de/?campid=email_pre-order-to-real-order_hq_yyyymmdd_transaction_all_think_engagement_logo_nl_EducationVoucher_education-sales
+https://de.smart.com/de/hashtag-one/?campid=email_pre-order-to-real-order_hq_yyyymmdd_transaction_all_think_engagement_button-1_nl_EducationVoucher_education-sales
+https://de.smart.com/de/customizer/?campid=email_pre-order_hq_yyyymmdd_transaction_de_think_engagement_header_nl_EduVoucher_education-sales
+https://de.smart.com/de/dealer-locator/?campid=email_pre-order-to-real-order_hq_yyyymmdd_transaction_all_think_engagement_body-image-3_nl_EducationVoucher_education-sales
+
+en
+https://uk.smart.com/en/?campid=email_pre-order-to-real-order_hq_yyyymmdd_transaction_all_think_engagement_logo_nl_EducationVoucher_education-sales
+https://uk.smart.com/en/hashtag-one/?campid=email_pre-order-to-real-order_hq_yyyymmdd_transaction_all_think_engagement_button-1_nl_EducationVoucher_education-sales
+https://uk.smart.com/en/customizer/?campid=email_pre-order_hq_yyyymmdd_transaction_de_think_engagement_header_nl_EduVoucher_education-sales
+https://uk.smart.com/en/dealer-locator/?campid=email_pre-order-to-real-order_hq_yyyymmdd_transaction_all_think_engagement_body-image-3_nl_EducationVoucher_education-sales
