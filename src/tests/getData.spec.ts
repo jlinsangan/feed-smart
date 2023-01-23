@@ -3,10 +3,7 @@ import PreviewLink from '../pageObjects/previewLink'
 
 //////////////////////////////////
 // PASTE YOUR PREVIEW LINK HERE //
-const pl = [
-  'https://mercury.feed.xyz/api/clients/ada7618f-3afc-4541-bc9b-cb5ddd9d9e5b/emails/b28caab5-8354-4164-b836-94b1ffb3d3d9/html?var=de',
-  'https://mercury.feed.xyz/api/clients/ada7618f-3afc-4541-bc9b-cb5ddd9d9e5b/emails/b28caab5-8354-4164-b836-94b1ffb3d3d9/html?var=en',
-]
+const pl = ['https://google.com']
 //////////////////////////////////
 
 let prevLink: PreviewLink
