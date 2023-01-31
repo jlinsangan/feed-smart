@@ -1,4 +1,8 @@
 node_modules/
 /test-results/
+/excel-results/
 /playwright-report/
 /playwright/.cache/
+*.txt
+*.xlsx
+sample1.ts
